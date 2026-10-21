@@ -11,7 +11,11 @@ VS Code with the Project
 Node.js Version
 
 !Node.js version screenshot
+<img width="1907" height="1020" alt="image" src="https://github.com/user-attachments/assets/be833459-8660-4f14-8893-55d4555f9acf" />
+
 
 Page Running with Live Server
 
 !Live Server screenshot
+<img width="1912" height="962" alt="image" src="https://github.com/user-attachments/assets/18780bea-389e-4c28-99f4-aeeee638344d" />
+
