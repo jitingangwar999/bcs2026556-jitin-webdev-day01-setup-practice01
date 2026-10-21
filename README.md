@@ -18,5 +18,5 @@ Node.js Version
 Page Running with Live Server
 
 !Live Server screenshot
-<img width="1912" height="962" alt="image" src="https://github.com/user-attachments/assets/18780bea-389e-4c28-99f4-aeeee638344d" />
+<img width="1892" height="1005" alt="image" src="https://github.com/user-attachments/assets/74cf3f15-d23b-4034-a1d8-9db2a7d39d42" />
 
